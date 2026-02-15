@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "明証",
+  "base_artist": "名取さな",
+  "createdAt": "2026-02-15T16:11:03.795458Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "明証",
+      "artist": "名取さな",
+      "has_synced": false,
+      "path": "select/pl_01_明証_名取さな.txt"
+    }
+  ]
+}
